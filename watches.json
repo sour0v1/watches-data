@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "SmartWatch One",
+    "model": "SW1",
+    "brand": "TechCo",
+    "features": ["Heart Rate Monitor", "Fitness Tracker", "Notifications"],
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "Gadget Tracker",
+    "model": "SW2",
+    "brand": "GadgetCorp",
+    "features": ["GPS", "Water Resistance", "Sleep Tracking"],
+    "price": 249.99
+  },
+  {
+    "id": 3,
+    "name": "InnoHealth Pro",
+    "model": "SW3",
+    "brand": "InnoTech",
+    "features": ["Customizable Watch Faces", "Music Control", "Health Monitoring"],
+    "price": 179.99
+  },
+  {
+    "id": 4,
+    "name": "SmartGear Elite",
+    "model": "SW4",
+    "brand": "SmartGear",
+    "features": ["ECG Monitor", "Built-in Camera", "Bluetooth Calling"],
+    "price": 299.99
+  },
+  {
+    "id": 5,
+    "name": "FutureWear X",
+    "model": "SW5",
+    "brand": "FutureWear",
+    "features": ["SpO2 Sensor", "Wireless Charging", "Touchscreen"],
+    "price": 219.99
+  }
+]
